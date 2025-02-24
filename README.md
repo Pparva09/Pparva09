@@ -7,7 +7,9 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building robus
 ## About Me
 
 **Name:** Parva Patel
+
 **Title:** MERN Stack Developer
+
 **Currently Learning:** Next.js, Retool
 
 ---
@@ -15,8 +17,11 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building robus
 ## Skills & Technologies
 
 **Frontend:** HTML, CSS, Tailwind, JavaScript, React, Next.js
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB, MySQL
+
 **Other:** Git, RESTful APIs, SericeNow(Admin) and more...
 
 ---
