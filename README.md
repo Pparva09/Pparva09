@@ -29,7 +29,9 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building robus
 ## Interests
 
 Exploring new technologies and frameworks
+
 Building scalable and efficient web applications
+
 Collaborating on innovative projects
 
 ---
@@ -37,6 +39,7 @@ Collaborating on innovative projects
 ## How to Reach Me
 
 **GitHub:** [@Pparva09](https://github.com/Pparva09)
+
 **Email:** (parvapatel09@gmail.com)
 
 ---
