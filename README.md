@@ -6,7 +6,7 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building robus
 
 ## About Me
 
-**Name:** Parva Patel
+**.Name:** Parva Patel
 
 **Title:** MERN Stack Developer
 
